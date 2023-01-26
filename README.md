@@ -1,0 +1,2 @@
+# sql-essentials
+SQL statements
